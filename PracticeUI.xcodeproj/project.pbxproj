@@ -60,9 +60,9 @@
 				616623702B6377850089F27A /* SceneDelegate.swift */,
 				616623722B6377850089F27A /* ViewController.swift */,
 				616623742B6377850089F27A /* Main.storyboard */,
-				616623772B6377850089F27A /* Assets.xcassets */,
 				616623792B6377850089F27A /* LaunchScreen.storyboard */,
 				6166237C2B6377850089F27A /* Info.plist */,
+				616623772B6377850089F27A /* Assets.xcassets */,
 			);
 			path = PracticeUI;
 			sourceTree = "<group>";
